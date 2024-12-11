@@ -19,6 +19,8 @@ npm start
 
 This project is a simple Toast Notification application built using React Native. The app demonstrates how to display four types of toast notifications (Info, Warning, Success, and Error) with custom messages and styles. It uses **React Native Reanimated** for smooth animations and transitions, making the notifications more engaging. The app features a modern, minimalist UI with pastel background colors for each toast type.
 
+<img src="assets/toast.gif" alt="Toast App Screenshot" style="width: 50%;">
+
 ## Features
 
 - **Four Types of Toast Notifications**:
